@@ -3,7 +3,7 @@
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
 <a href="https://github.com/mdnaimurrahaman">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe;"/>
 </a>
 
 <p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
@@ -65,12 +65,6 @@ dedication.</p>
   <img src="https://activity-graph.herokuapp.com/graph?username=mdnaimurrahaman&theme=react-dark" />
  </a>
  <br/>
-
-## **Total Visitor Count &#8595;**
-
-<a href="https://github.com/mdnaimurrahaman">
-  <img alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/mdnaimurrahaman/count.svg" />
-</a>
 
 [facebook]: https://web.facebook.com/emon2075 'Facebook'
 [dribbble]: https://dribbble.com/impressdesignry 'Dribbble'
