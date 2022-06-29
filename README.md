@@ -1,4 +1,7 @@
-(https://i.ibb.co/tHjWtrH/my-cover-design.jpg)
+<img src="https://i.ibb.co/tHjWtrH/my-cover-design.jpg"/>
+<br/>
+<br/>
+
 
 ### **Hi, I'm [Md Naimur Rahaman][facebook]** :wave:
 
@@ -65,7 +68,7 @@ dedication.</p>
 - LinkedIn: https://www.linkedin.com/in/mdnaimurrahaman
   <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#35a8f4;**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
  <a href="https://github.com/mdnaimurrahaman">
   <img src="https://activity-graph.herokuapp.com/graph?username=mdnaimurrahaman&theme=react-dark" />
  </a>
