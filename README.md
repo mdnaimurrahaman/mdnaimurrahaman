@@ -15,10 +15,9 @@ dedication.</p>
 ## **Connect with Me &#8595;**
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]&nbsp;
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]&nbsp;
-[<img src="https://i.ibb.co/W2yQvwk/logo.png?style=for-the-badge&logo=github&logoColor=white" />][dribbble]&nbsp;
+
 
 ## **My Skills &#8595;**
 
@@ -63,14 +62,14 @@ dedication.</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
  <a href="https://github.com/mdnaimurrahaman">
-  <img src="https://activity-graph.herokuapp.com/graph?username=0xNaim&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mdnaimurrahaman&theme=react-dark" />
  </a>
  <br/>
 
 ## **Total Visitor Count &#8595;**
 
 <a href="https://github.com/mdnaimurrahaman">
-  <img alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/0xNaim/count.svg" />
+  <img alt="Visitor Count" width="80%" height="100%" src="https://profile-counter.glitch.me/mdnaimurrahaman/count.svg" />
 </a>
 
 [facebook]: https://web.facebook.com/emon2075 'Facebook'
