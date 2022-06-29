@@ -2,7 +2,7 @@
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<a href="https://github.com/0xNaim">
+<a href="https://github.com/mdnaimurrahaman">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe"/>
 </a>
 
@@ -18,7 +18,7 @@ dedication.</p>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]&nbsp;
-[<img src="https://i.ibb.co/W2yQvwk/logo.png" />][dribbble]&nbsp;
+[<img src="https://i.ibb.co/W2yQvwk/logo.png?style=for-the-badge&logo=github&logoColor=white" />][dribbble]&nbsp;
 
 ## **My Skills &#8595;**
 
