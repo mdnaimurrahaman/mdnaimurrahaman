@@ -1,7 +1,5 @@
 <img src="https://i.ibb.co/tHjWtrH/my-cover-design.jpg"/>
 <br/>
-<br/>
-
 
 ### **Hi, I'm [Md Naimur Rahaman][facebook]** :wave:
 
