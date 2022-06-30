@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/tHjWtrH/my-cover-design.jpg"/>
+<img src="https://i.ibb.co/0Dx0WYv/Github-cover.jpg"/>
 <br/>
 
 ### **Hi, I'm [Md Naimur Rahaman][facebook]** :wave:
