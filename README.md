@@ -59,13 +59,19 @@ dedication.</p>
 [<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />][link]&nbsp;
 <br/>
 
-### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdnaimurrahaman&show_icons=true&theme=prussian&hide_border=true)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimurrahaman&layout=compact&theme=prussian&hide_border=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats) 
+## :chart_with_upwards_trend: Current Stats
 
+<br />
 
+<div style="display: flex; flex-direction: row; align-items: center;">
+ <img  class="img" src="https://github-readme-stats.vercel.app/api?username=mdnaimurrahaman&show_icons=true&theme=prussian&hide_border=true" />
+ <img  class="img" src="https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats" />
+</div>
+
+<p align="center">
+  <img  class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimurrahaman&layout=compact&theme=prussian&hide_border=true" />
+</p>
 
 ## **Get in Touch &#8595;**
 
