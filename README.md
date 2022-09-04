@@ -15,7 +15,7 @@ achievement. I believe in success through hard work &
 dedication.</p>
 <hr/>
 
-## **Connect with Me &#8595;**
+## **:point_down:**
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]&nbsp;
@@ -25,7 +25,7 @@ dedication.</p>
 
 
 
-## **My Skills &#8595;**
+## **My Skills :octocat:**
 
 [<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />][link]&nbsp;
@@ -45,7 +45,7 @@ dedication.</p>
 [<img src="https://img.shields.io/badge/Brand%20Design-ff6b4e?style=for-the-badge&logo=&logoColor=4db5ff" />][link]&nbsp;
 <br/>
 
-## **Tools &#8595;**
+## **:wrench:**
 
 [<img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />][link]&nbsp;
 [<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />][link]&nbsp;
@@ -68,12 +68,6 @@ dedication.</p>
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats" />
 </p>
 
-## **Get in Touch &#8595;**
-
-- Email: mdnaimur.work@gmail.com
-- Facebook: https://web.facebook.com/emon2075
-- LinkedIn: https://www.linkedin.com/in/mdnaimurrahaman
-  <br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
  <a href="https://github.com/mdnaimurrahaman">
@@ -87,3 +81,4 @@ dedication.</p>
 [github]: https://github.com/mdnaimurrahaman 'Github'
 [fiverr]: https://www.fiverr.com/mdnaimur_202 'Fiverr'
 [link]:  https://github.com/mdnaimurrahaman
+
