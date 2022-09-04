@@ -59,6 +59,10 @@ dedication.</p>
 [<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />][link]&nbsp;
 <br/>
 
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+
 ## **Get in Touch &#8595;**
 
 - Email: mdnaimur.work@gmail.com
