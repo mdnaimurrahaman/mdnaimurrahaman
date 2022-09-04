@@ -64,13 +64,8 @@ dedication.</p>
 
 <br />
 
-<div style="display: flex; flex-direction: row; align-items: center;">
- <img  class="img" src="https://github-readme-stats.vercel.app/api?username=mdnaimurrahaman&show_icons=true&theme=prussian&hide_border=true" />
- <img  class="img" src="https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats" />
-</div>
-
 <p align="center">
-  <img  class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimurrahaman&layout=compact&theme=prussian&hide_border=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats" />
 </p>
 
 ## **Get in Touch &#8595;**
