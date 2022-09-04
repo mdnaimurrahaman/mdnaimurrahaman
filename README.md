@@ -61,7 +61,8 @@ dedication.</p>
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats) 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdnaimurrahaman&layout=compact&theme=prussian&hide_border=true)
 
 ## **Get in Touch &#8595;**
 
