@@ -5,9 +5,9 @@
 
 <!-- ## **I'm a Junior Full Stack Software Engineer** -->
 
-<a href="https://github.com/mdnaimurrahaman">
+<div href="https://github.com/mdnaimurrahaman">
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe;"/>
-</a>
+</div>
 
 <p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
 I have been working successfully in the Graphic Design sector for the last 4 years. In 2019, I achieved the creative designer award from Paradise IT institutions. I enjoy creative designing & I am interested in learning new technology. I want to join a Professional life to gain exposure, confidence & a sense of
@@ -59,7 +59,9 @@ dedication.</p>
 [<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />][link]&nbsp;
 <br/>
 
-![Metrics](https://metrics.lecoq.io/mdnaimurrahaman?template=classic&repositories.affiliations=&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka&config.octicon=true)
+<p align="center">
+  <img src="https://metrics.lecoq.io/mdnaimurrahaman?template=classic&repositories.affiliations=&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka&config.octicon=true"/>
+</p>
 
 ## :chart_with_upwards_trend: Current Stats
 
