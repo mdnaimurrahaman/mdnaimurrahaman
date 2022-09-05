@@ -59,6 +59,7 @@ dedication.</p>
 [<img src="https://img.shields.io/badge/Adobe%20XD-450135?style=for-the-badge&logo=adobe%20xd&logoColor=f75eee" />][link]&nbsp;
 <br/>
 
+![Metrics](https://metrics.lecoq.io/mdnaimurrahaman?template=classic&repositories.affiliations=&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FDhaka&config.octicon=true)
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -67,6 +68,7 @@ dedication.</p>
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats" />
 </p>
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **Activity Graph &#8595;**
