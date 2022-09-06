@@ -15,6 +15,7 @@ achievement. I believe in success through hard work &
 dedication.</p>
 <hr/>
 
+
 ## **:point_down:**
 
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]&nbsp;
@@ -67,6 +68,13 @@ dedication.</p>
 
 <br />
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&username=mdnaimurrahaman" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&username=mdnaimurrahaman" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mdnaimurrahaman&theme=prussian&hide_border=true)](https://git.io/streak-stats" />
 </p>
@@ -78,6 +86,14 @@ dedication.</p>
   <img src="https://activity-graph.herokuapp.com/graph?username=mdnaimurrahaman&theme=react-dark" />
  </a>
  <br/>
+ 
+ <br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mdnaimurrahaman.mdnaimurrahaman&left_color=deepskyblue&right_color=blue"  />
+</div>
+
+###
 
 [facebook]: https://web.facebook.com/emon2075 'Facebook'
 [dribbble]: https://dribbble.com/impressdesignry 'Dribbble'
