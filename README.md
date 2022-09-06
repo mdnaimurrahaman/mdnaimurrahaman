@@ -87,11 +87,6 @@ dedication.</p>
 </div>
 
 ###
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/mdnaimurrahaman/mdnaimurrahaman/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 [facebook]: https://web.facebook.com/emon2075 'Facebook'
 [dribbble]: https://dribbble.com/impressdesignry 'Dribbble'
