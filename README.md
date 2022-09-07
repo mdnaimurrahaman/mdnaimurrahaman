@@ -1,13 +1,8 @@
 <img src="https://i.ibb.co/0Dx0WYv/Github-cover.jpg"/>
 
 
-### **Hi, I'm [Md Naimur Rahaman][facebook]** :wave:
-
-<!-- ## **I'm a Junior Full Stack Software Engineer** -->
-
-<div href="https://github.com/mdnaimurrahaman">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&duration=3000&color=FFFFFF&vCenter=true&width=500&height=80&lines=I+am+a+Programmer;I+am+a+Professional+ graphic+designe;"/>
-</div>
+### **Hi, My name is [Md Naimur Rahaman]** :wave:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outerspace+Militia&size=22&pause=1000&color=4CF78CE1&width=435&lines=I+am+a+Web-developer..!+%26;Professional+Graphic+Designer.)](https://git.io/typing-svg)
 
 <p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
 I have been working successfully in the Graphic Design sector for the last 4 years. In 2019, I achieved the creative designer award from Paradise IT institutions. I enjoy creative designing & I am interested in learning new technology. I want to join a Professional life to gain exposure, confidence & a sense of
