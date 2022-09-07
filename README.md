@@ -2,7 +2,7 @@
 
 
 ### **Hi, My name is Md Naimur Rahaman** :wave:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outerspace+Militia&size=22&pause=1000&color=4CF78CE1&width=435&lines=I+am+a+Web-developer..!+%26;Professional+Graphic+Designer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web-developer..!+%26;Professional+Graphic+Designer.)](https://git.io/typing-svg)
 
 <p>I'm passionate about coding , However I am also a creative designer. I have always enjoyed coding and doing creative designs. I have been working successfully in the Graphic Design sector for the last 3 years. In 2019, I achieved the creative designer award from Paradise IT institutions. Currently I am working on web development confidently. I believe in success through hard work & dedication.  My hobbies are singing, cricket and playing video games.</p>
 <hr/>
