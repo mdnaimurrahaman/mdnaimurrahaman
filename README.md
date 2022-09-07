@@ -1,13 +1,10 @@
 <img src="https://i.ibb.co/0Dx0WYv/Github-cover.jpg"/>
 
 
-### **Hi, My name is [Md Naimur Rahaman]** :wave:
+### **Hi, My name is Md Naimur Rahaman** :wave:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outerspace+Militia&size=22&pause=1000&color=4CF78CE1&width=435&lines=I+am+a+Web-developer..!+%26;Professional+Graphic+Designer.)](https://git.io/typing-svg)
 
-<p>I'm passionate About Graphic Design And Front-End Web Development. I know how important user interface design is in the field of website development.
-I have been working successfully in the Graphic Design sector for the last 4 years. In 2019, I achieved the creative designer award from Paradise IT institutions. I enjoy creative designing & I am interested in learning new technology. I want to join a Professional life to gain exposure, confidence & a sense of
-achievement. I believe in success through hard work &
-dedication.</p>
+<p>I'm passionate about coding , However I am also a creative designer. I have always enjoyed coding and doing creative designs. I have been working successfully in the Graphic Design sector for the last 3 years. In 2019, I achieved the creative designer award from Paradise IT institutions. Currently I am working on web development confidently. I believe in success through hard work & dedication.  My hobbies are singing, cricket and playing video games.</p>
 <hr/>
 
 
